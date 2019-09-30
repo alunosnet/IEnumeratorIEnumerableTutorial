@@ -43,7 +43,7 @@ namespace ListCustomIEnumerator
             }
             return (position < TheList.Count);
         }
-
+        
         public void Reset()
         {
             position = -1;
